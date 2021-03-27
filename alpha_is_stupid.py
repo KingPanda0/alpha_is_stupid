@@ -1,0 +1,1 @@
+print('Alpha is stupid')
